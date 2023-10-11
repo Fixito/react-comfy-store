@@ -1,4 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Live Demo](https://img.shields.io/badge/demo-live-blue)](https://dwwm-react-comfy-store.netlify.app/)
 
 # React Comfy Store
 
@@ -8,14 +9,23 @@
 
 React Comfy Store is an e-commerce application built with React.js. It offers a fluid and responsive user experience, with features such as product management, a shopping cart, and user authentication. The application is designed to be easily extensible and maintainable, thanks to a well thought-out architecture and the use of modern technologies.
 
+## Features
+
+- List of products
+- Shopping cart
+- Authentication
+- etc...
+
+## Screenshots
+
+![Screenshot](./screenshots/react-comfy-store.png)
+
 ## Table of contents
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Features](#features)
 - [Technologies used](#technologies-used)
 - [License](#license)
-- [Screenshots](#screenshots)
 - [Contact](#contact)
 
 ## Installation
@@ -36,15 +46,6 @@ To start the development server :
 npm run dev
 ```
 
-## Fonctionnalités
-
-## Features
-
-- List of products
-- Shopping cart
-- Authentication
-- etc...
-
 ## Technologies used
 
 - React
@@ -55,10 +56,6 @@ npm run dev
 ## License
 
 This project is licensed under the MIT License.
-
-## Screenshots
-
-![Screenshot1](./screenshots/react-comfy-store.png)
 
 ## Contact
 
